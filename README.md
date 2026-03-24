@@ -48,6 +48,3 @@ cd server && npm start
 # Start client
 cd client && npm run dev
 ```
-
-## Author
-**Narsipura Abhinav** — [GitHub](https://github.com/NarsipuraAbhinav) · [LinkedIn](https://www.linkedin.com/in/narsipura-abhinav-a81949226/)
